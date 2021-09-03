@@ -42,22 +42,6 @@ or just for some interesting discussion.
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=purple)
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Anstroy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anstroy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anstroy&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href=https://www.linkedin.com/in/nirav-lathiya-a43b2420b"><img src="https://img.shields.io/badge/-Aus%20Gomez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="nirav.v.lathiya@gmail.com"><img src="https://img.shields.io/badge/-aus.gomez95@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
----
 
 Last Edited on: 7/5/2021
