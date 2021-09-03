@@ -1,7 +1,7 @@
 <!-- ![Aus Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
 
 <img alt="Night Coding" src="https://66.media.tumblr.com/4334a9b0943ea9582ef5a6525bbfe7bc/tumblr_mm32b2oKVQ1rfjowdo1_500.gif" width='100' align="left"/><h2>Hey
-there! I'm Aus</h2>
+there! I'm Nirav</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,8 +11,7 @@ quick hacks.\
 🎓 &nbsp;Bachelor's degree in IT and Associate's degree in `Computer Science`.\
 🌱 &nbsp;I am currently looking to learn more about blockchain and eventually
 work as a `Blockchain developer`.\
-✍️ &nbsp;In my free time, I like to travel to try different kinds of food plates
-around the world.\
+
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering services,
 or just for some interesting discussion.
 
@@ -55,10 +54,8 @@ or just for some interesting discussion.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://auscode.me"><img src="https://img.shields.io/badge/-auscode.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aus-gomez/"><img src="https://img.shields.io/badge/-Aus%20Gomez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:aus.gomez95@gmail.com"><img src="https://img.shields.io/badge/-aus.gomez95@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/auscode.me"><img src="https://img.shields.io/badge/-@auscode.me-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href=https://www.linkedin.com/in/nirav-lathiya-a43b2420b"><img src="https://img.shields.io/badge/-Aus%20Gomez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="nirav.v.lathiya@gmail.com"><img src="https://img.shields.io/badge/-aus.gomez95@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
