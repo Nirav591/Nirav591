@@ -10,7 +10,7 @@ quick hacks.\
 👨🏻‍💻 &nbsp;Currently working as a `Software Engineer`.\
 🎓 &nbsp;Bachelor's degree in IT and Associate's degree in `Computer Science`.\
 🌱 &nbsp;I am currently looking to learn more about blockchain and eventually
-work as a `Blockchain developer`.\
+work as a `Full Stack Developer`.\
 
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering services,
 or just for some interesting discussion.
