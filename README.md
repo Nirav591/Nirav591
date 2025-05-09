@@ -1,47 +1,61 @@
-<!-- ![Aus Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
+# 👋 Hi, I'm Nirav Lathiya
 
-<img alt="Night Coding" src="https://66.media.tumblr.com/4334a9b0943ea9582ef5a6525bbfe7bc/tumblr_mm32b2oKVQ1rfjowdo1_500.gif" width='100' align="left"/><h2>Hey
-there! I'm Nirav</h2>
+I’m a passionate and detail-oriented Front-End Developer with hands-on experience building responsive, accessible, and pixel-perfect web applications using modern JavaScript technologies. I specialize in **ReactJS**, **Next.js**, and **UI/UX design**, with a strong background in collaborating on fast-paced, design-driven teams.
 
-### 👨🏻‍💻 &nbsp;About Me
+## 💼 Experience
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and
-quick hacks.\
-👨🏻‍💻 &nbsp;Currently working as a `Software Engineer`.\
-🎓 &nbsp;Bachelor's degree in IT and Associate's degree in `Computer Science`.\
-🌱 &nbsp;I am currently looking to learn more about blockchain and eventually
-work as a `Full Stack Developer`.\
+### 🔧 Solidblack LTD – Frontend Developer (London, UK)
+*Oct 2024 – Present*
+- Built a reusable component library for consistent UI across multiple projects.
+- Optimized performance by transitioning legacy systems to modern front-end stacks.
+- Developed dynamic user interfaces with animations, media integration, and efficient loading.
 
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering services,
-or just for some interesting discussion.
+### 🔷 Liberty Infoscience – Senior ReactJS Developer (Surat, IN)
+*Jan 2024 – Jul 2024*
+- Led Git-based version control and contributed to debugging and interface enhancements.
+- Translated market trends into scalable and user-centric technical solutions.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+### 🟢 Arthasaga Pvt. Ltd. – Senior ReactJS Developer (Ahmedabad, IN)
+*Dec 2023 – Jan 2024*
+- Upgraded software to resolve defects and enhance customer experience.
+- Contributed to quality assurance processes and product inspection.
 
-## 🛠 &nbsp;Tech Stack
+### 🛠️ Tecocraft Infusion Pvt Ltd – ReactJS Developer (Surat, IN)
+*Jan 2022 – Dec 2023*
+- Conducted code reviews and built automated test suites using Jest and Enzyme.
+- Integrated third-party services, authentication systems, and APIs.
 
-#### My favorite picks:
+## 🧠 Skills
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
-![Deno](https://img.shields.io/badge/-Deno-05122A?style=flat&logo=deno)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
-![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=red)
-![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
-![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)
+**Languages & Tools**:  
+JavaScript, HTML, CSS, Sass, Bootstrap, ReactJS, NextJS, Redux, Material-UI, Storybook, Node.js, Figma
 
-#### Used before:
+**Specialties**:  
+Pixel-perfect UI, Responsive Design, REST API Integration, Mobile-First Development, Cross-Browser Compatibility, SEO, Web Analytics, UI/UX Principles
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=purple)
+## 🎓 Education
 
+**MSc Software Engineering**  
+*University of West London, 2024*  
+Modules: Big Data Analytics, Advanced Topics in Software Engineering, Machine Learning, Mobile Web Component Development
 
+**MCA – Master of Computer Application**  
+*Swarrnim Startup & Innovation University, 2023*
 
-Last Edited on: 7/5/2021
+**BCA – Bachelor of Computer Application**  
+*Jain University, 2021*
+
+## 🏆 Certifications
+- **NodeJS - The Complete Guide** (Udemy, Maximilian Schwarzmüller)
+
+## 🌐 Portfolio
+- [LinkedIn Profile](https://www.linkedin.com/in/nirav-lathiya/a43b2420b/)
+
+## 📬 Contact
+📍 London, UK  
+📞 +44 7554 719838  
+📧 niravlathiya02@gmail.com
+
+---
+
+> “Building clean, scalable, and engaging digital experiences—one component at a time.”
