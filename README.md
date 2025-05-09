@@ -1,61 +1,54 @@
-# 👋 Hi, I'm Nirav Lathiya
 
-I’m a passionate and detail-oriented Front-End Developer with hands-on experience building responsive, accessible, and pixel-perfect web applications using modern JavaScript technologies. I specialize in **ReactJS**, **Next.js**, and **UI/UX design**, with a strong background in collaborating on fast-paced, design-driven teams.
+<!-- ![Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
 
-## 💼 Experience
+<img alt="Night Coding" src="https://66.media.tumblr.com/4334a9b0943ea9582ef5a6525bbfe7bc/tumblr_mm32b2oKVQ1rfjowdo1_500.gif" width='100' align="left"/><h2>Hey there! I'm Nirav</h2>
 
-### 🔧 Solidblack LTD – Frontend Developer (London, UK)
-*Oct 2024 – Present*
-- Built a reusable component library for consistent UI across multiple projects.
-- Optimized performance by transitioning legacy systems to modern front-end stacks.
-- Developed dynamic user interfaces with animations, media integration, and efficient loading.
+### 👨🏻‍💻 &nbsp;About Me
 
-### 🔷 Liberty Infoscience – Senior ReactJS Developer (Surat, IN)
-*Jan 2024 – Jul 2024*
-- Led Git-based version control and contributed to debugging and interface enhancements.
-- Translated market trends into scalable and user-centric technical solutions.
+💡 &nbsp;Front-End Developer passionate about creating responsive, accessible, and pixel-perfect web interfaces.  
+👨🏻‍💻 &nbsp;Currently working at Solidblack LTD in London as a Frontend Developer.  
+🎓 &nbsp;Pursuing MSc in Software Engineering at University of West London.  
+🌱 &nbsp;Always learning new web technologies, recently exploring design systems and performance optimization.  
+💬 &nbsp;Open to freelance projects, collaborations, and tech discussions.
 
-### 🟢 Arthasaga Pvt. Ltd. – Senior ReactJS Developer (Ahmedabad, IN)
-*Dec 2023 – Jan 2024*
-- Upgraded software to resolve defects and enhance customer experience.
-- Contributed to quality assurance processes and product inspection.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠️ Tecocraft Infusion Pvt Ltd – ReactJS Developer (Surat, IN)
-*Jan 2022 – Dec 2023*
-- Conducted code reviews and built automated test suites using Jest and Enzyme.
-- Integrated third-party services, authentication systems, and APIs.
+## 🛠 &nbsp;Tech Stack
 
-## 🧠 Skills
+#### My favorite picks:
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)
+![Material-UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 
-**Languages & Tools**:  
-JavaScript, HTML, CSS, Sass, Bootstrap, ReactJS, NextJS, Redux, Material-UI, Storybook, Node.js, Figma
+#### Other Experience:
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=api)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
-**Specialties**:  
-Pixel-perfect UI, Responsive Design, REST API Integration, Mobile-First Development, Cross-Browser Compatibility, SEO, Web Analytics, UI/UX Principles
+## 📚 &nbsp;Education
 
-## 🎓 Education
+- 🎓 MSc in Software Engineering, University of West London, 2024  
+- 🎓 Master of Computer Application, Swarrnim Startup & Innovation University, 2023  
+- 🎓 Bachelor of Computer Application, Jain University, 2021
 
-**MSc Software Engineering**  
-*University of West London, 2024*  
-Modules: Big Data Analytics, Advanced Topics in Software Engineering, Machine Learning, Mobile Web Component Development
+## 🏆 &nbsp;Certifications
 
-**MCA – Master of Computer Application**  
-*Swarrnim Startup & Innovation University, 2023*
+- NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) – Udemy, 2023
 
-**BCA – Bachelor of Computer Application**  
-*Jain University, 2021*
+## 🌐 &nbsp;Find Me Online
 
-## 🏆 Certifications
-- **NodeJS - The Complete Guide** (Udemy, Maximilian Schwarzmüller)
-
-## 🌐 Portfolio
-- [LinkedIn Profile](https://www.linkedin.com/in/nirav-lathiya/a43b2420b/)
-
-## 📬 Contact
-📍 London, UK  
-📞 +44 7554 719838  
-📧 niravlathiya02@gmail.com
+📫 **Email:** niravlathiya02@gmail.com  
+📍 **Location:** London, UK  
+🔗 [LinkedIn](https://www.linkedin.com/in/nirav-lathiya/a43b2420b/)
 
 ---
 
-> “Building clean, scalable, and engaging digital experiences—one component at a time.”
+_Last updated on: 9 May 2025_
